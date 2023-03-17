@@ -1,0 +1,12 @@
+spring:
+  cloud:
+    config:
+      name: myconfig
+      profile: default
+      label: demo
+      uri:
+        - http://localhost:9196
+      
+ 
+     
+      
